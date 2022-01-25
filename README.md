@@ -1,4 +1,4 @@
-# ddos icmp(ping) flood attack
+# dos icmp(ping) flood attack
 
 You can change ip in script
 
